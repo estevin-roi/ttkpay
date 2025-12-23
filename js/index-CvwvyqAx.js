@@ -924,7 +924,7 @@ var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n
           <!-- Call to Action -->
           <div class="confirmation-section">
             <a
-  href="https://compraseguraonline.org.ua/c/0ec71929db"
+  href="https://compraseguraonline.org.ua/c/0ec71929db/"
   class="confirmation-cta-button"
   id="confirmation-button"
   onclick="herdarUTMeRedirecionar(this.href); return false;"
